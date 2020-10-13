@@ -72,11 +72,11 @@
 
 ---
 
-![](https://github-readme-stats.dexters-hub.vercel.app/api?username=Dexters-Hub&show_icons=true)
+![ReadMe Stats](https://github-readme-stats.dexters-hub.vercel.app/api?username=Dexters-Hub&show_icons=true)
 
-![](https://github-readme-stats.dexters-hub.vercel.app/api/top-langs/?username=Dexters-Hub&langs_count=10&layout=compact)
+![Most Used Languages](https://github-readme-stats.dexters-hub.vercel.app/api/top-langs/?username=Dexters-Hub&langs_count=10&layout=compact)
 
-![](https://github-readme-stats.dexters-hub.vercel.app/api/wakatime?username=Dexters_Hub)
+![Waka Time](https://github-readme-stats.dexters-hub.vercel.app/api/wakatime?username=Dexters_Hub)
 
 ### ⚡ Recent Activity
 
