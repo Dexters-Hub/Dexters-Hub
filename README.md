@@ -74,7 +74,7 @@
 
 ![](https://github-readme-stats.dexters-hub.vercel.app/api?username=Dexters-Hub&show_icons=true)
 
-![Top Langs](https://github-readme-stats.dexters-hub.vercel.app/api/top-langs/?username=Dexters-Hub&langs_count=10&layout=compact)
+![](https://github-readme-stats.dexters-hub.vercel.app/api/top-langs/?username=Dexters-Hub&langs_count=10&layout=compact)
 
 ![](https://github-readme-stats.dexters-hub.vercel.app/api/wakatime?username=Dexters_Hub)
 
