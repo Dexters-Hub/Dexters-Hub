@@ -53,7 +53,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to Type 2x Faster using Touch Typing | Basic Tutorial | Malayalam](https://www.youtube.com/watch?v=4I-J9-hK94Q)
+- [How to Type 2x Faster using Touch Typing | Basic Keyboard Tutorial | Malayalam](https://www.youtube.com/watch?v=4I-J9-hK94Q)
 - [Big love (Fleetwood Mac - Lindsey Buckingham) - Guitar Cover | Electric Fingerpicking](https://www.youtube.com/watch?v=I3En7JMIO3Y)
 - [Guitar Basics for Beginners | ഗിറ്റാർ മ്യൂസിക് | Malayalam](https://www.youtube.com/watch?v=4bOAdXNNEu4)
 - [Computer Science for +1 Class | Kerala Syllabus | Malayalam](https://www.youtube.com/watch?v=VLg9SthPWiQ)
