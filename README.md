@@ -53,11 +53,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to Type 2x Faster using Touch Typing | Basic Keyboard Tutorial | Malayalam](https://www.youtube.com/watch?v=4I-J9-hK94Q)
 - [Big love (Fleetwood Mac - Lindsey Buckingham) - Guitar Cover | Electric Fingerpicking](https://www.youtube.com/watch?v=I3En7JMIO3Y)
 - [Guitar Basics for Beginners | ഗിറ്റാർ മ്യൂസിക് | Malayalam](https://www.youtube.com/watch?v=4bOAdXNNEu4)
 - [Computer Science for +1 Class | Kerala Syllabus | Malayalam](https://www.youtube.com/watch?v=VLg9SthPWiQ)
 - [HELEN | Thaarapadhamaake (ft. Prarthana Indrajith) - Malayalam Electric Guitar Cover | Alwin John](https://www.youtube.com/watch?v=_UL5cN5Nflg)
+- [(സൂഫിയും സുജാതയും) Vathikkalu Vellaripravu - Electric Guitar Cover Malayalam by Alwin John | [2020]](https://www.youtube.com/watch?v=-BNchexGZck)
 <!-- YOUTUBE:END -->
 
 ---
@@ -76,7 +76,7 @@
 
 ![Most Used Languages](https://github-readme-stats.dexters-hub.vercel.app/api/top-langs/?username=Dexters-Hub&langs_count=10&layout=compact)
 
-![Waka Time](https://github-readme-stats.dexters-hub.vercel.app/api/wakatime?username=Dexters_Hub)
+<img src="https://wakatime.com/share/@Dexters_Hub/07d09f1d-1418-4e86-9372-0d58fc7aa578.svg">
 
 ### ⚡ Recent Activity
 
