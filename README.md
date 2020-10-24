@@ -81,10 +81,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Dexters-Hub/Java_Simple_Programs/pull/1) in [Dexters-Hub/Java_Simple_Programs](https://github.com/Dexters-Hub/Java_Simple_Programs)
-2. 🗣 Commented on [#70](https://github.com/MakeContributions/markdown-dungeon/issues/70) in [MakeContributions/markdown-dungeon](https://github.com/MakeContributions/markdown-dungeon)
-3. ❗️ Opened issue [#70](https://github.com/MakeContributions/markdown-dungeon/issues/70) in [MakeContributions/markdown-dungeon](https://github.com/MakeContributions/markdown-dungeon)
-4. 🗣 Commented on [#1](https://github.com/MakeContributions/markdown-dungeon/issues/1) in [MakeContributions/markdown-dungeon](https://github.com/MakeContributions/markdown-dungeon)
+1. 🎉 Merged PR [#2](https://github.com/Dexters-Hub/Java_Simple_Programs/pull/2) in [Dexters-Hub/Java_Simple_Programs](https://github.com/Dexters-Hub/Java_Simple_Programs)
+2. 🎉 Merged PR [#1](https://github.com/Dexters-Hub/Java_Simple_Programs/pull/1) in [Dexters-Hub/Java_Simple_Programs](https://github.com/Dexters-Hub/Java_Simple_Programs)
+3. 🗣 Commented on [#70](https://github.com/MakeContributions/markdown-dungeon/issues/70) in [MakeContributions/markdown-dungeon](https://github.com/MakeContributions/markdown-dungeon)
+4. ❗️ Opened issue [#70](https://github.com/MakeContributions/markdown-dungeon/issues/70) in [MakeContributions/markdown-dungeon](https://github.com/MakeContributions/markdown-dungeon)
 <!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/_alwin_john
