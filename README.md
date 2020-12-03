@@ -76,7 +76,7 @@
 
 ![Most Used Languages](https://github-readme-stats.dexters-hub.vercel.app/api/top-langs/?username=Dexters-Hub&langs_count=10&layout=compact)
 
-<img src="https://wakatime.com/share/@Dexters_Hub/07d09f1d-1418-4e86-9372-0d58fc7aa578.svg">
+
 
 ### ⚡ Recent Activity
 
