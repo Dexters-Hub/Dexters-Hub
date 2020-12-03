@@ -53,11 +53,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [(Kumbalangi Nights) - ഉയിരിൽ തൊടും Uyiril Thodum | Fingerstyle Guitar Cover](https://www.youtube.com/watch?v=Ae--utlFWm8)
+- [Memories (Maroon 5) - Fingerstyle Guitar Cover | Alwin John](https://www.youtube.com/watch?v=2xy_wfKO4KQ)
+- [How to Type 2x Faster using Touch Typing | Basic Keyboard Tutorial | Malayalam](https://www.youtube.com/watch?v=4I-J9-hK94Q)
 - [Big love (Fleetwood Mac - Lindsey Buckingham) - Guitar Cover | Electric Fingerpicking](https://www.youtube.com/watch?v=I3En7JMIO3Y)
 - [Guitar Basics for Beginners | ഗിറ്റാർ മ്യൂസിക് | Malayalam](https://www.youtube.com/watch?v=4bOAdXNNEu4)
-- [Computer Science for +1 Class | Kerala Syllabus | Malayalam](https://www.youtube.com/watch?v=VLg9SthPWiQ)
-- [HELEN | Thaarapadhamaake (ft. Prarthana Indrajith) - Malayalam Electric Guitar Cover | Alwin John](https://www.youtube.com/watch?v=_UL5cN5Nflg)
-- [(സൂഫിയും സുജാതയും) Vathikkalu Vellaripravu - Electric Guitar Cover Malayalam by Alwin John | [2020]](https://www.youtube.com/watch?v=-BNchexGZck)
 <!-- YOUTUBE:END -->
 
 ---
@@ -65,6 +65,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Touch Typing](https://dev.to/dextershub/touch-typing-3bm4)
 - [What is Ethereum?](https://medium.com/@alwinjohn/what-is-ethereum-c34fd27310db?source=rss-26796c72c7e6------2)
 - [Key Concepts of Blockchain](https://medium.com/@alwinjohn/key-concepts-of-blockchain-a9cdc50f9557?source=rss-26796c72c7e6------2)
 - [Concept of Machine Learning](https://medium.com/@alwinjohn/concept-of-machine-learning-92a3ef087253?source=rss-26796c72c7e6------2)
@@ -81,10 +82,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/MakeContributions/markdown-dungeon/issues/70) in [MakeContributions/markdown-dungeon](https://github.com/MakeContributions/markdown-dungeon)
-2. ❗️ Opened issue [#70](https://github.com/MakeContributions/markdown-dungeon/issues/70) in [MakeContributions/markdown-dungeon](https://github.com/MakeContributions/markdown-dungeon)
-3. 🗣 Commented on [#1](https://github.com/MakeContributions/markdown-dungeon/issues/1) in [MakeContributions/markdown-dungeon](https://github.com/MakeContributions/markdown-dungeon)
-4. 🎉 Merged PR [#2](https://github.com/Dexters-Hub/FOCES-30-Days-of-Java-Hackerrank/pull/2) in [Dexters-Hub/FOCES-30-Days-of-Java-Hackerrank](https://github.com/Dexters-Hub/FOCES-30-Days-of-Java-Hackerrank)
+1. 💪 Opened PR [#1](https://github.com/Arjun-Varma2/test/pull/1) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
+2. 🎉 Merged PR [#2](https://github.com/Dexters-Hub/Java_Simple_Programs/pull/2) in [Dexters-Hub/Java_Simple_Programs](https://github.com/Dexters-Hub/Java_Simple_Programs)
+3. 🎉 Merged PR [#1](https://github.com/Dexters-Hub/Java_Simple_Programs/pull/1) in [Dexters-Hub/Java_Simple_Programs](https://github.com/Dexters-Hub/Java_Simple_Programs)
+4. 🗣 Commented on [#70](https://github.com/MakeContributions/markdown-dungeon/issues/70) in [MakeContributions/markdown-dungeon](https://github.com/MakeContributions/markdown-dungeon)
 <!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/_alwin_john
