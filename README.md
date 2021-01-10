@@ -117,7 +117,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Touch Typing](https://dev.to/dextershub/touch-typing-3bm4)
 - [What is Ethereum?](https://medium.com/@alwinjohn/what-is-ethereum-c34fd27310db?source=rss-26796c72c7e6------2)
 - [Key Concepts of Blockchain](https://medium.com/@alwinjohn/key-concepts-of-blockchain-a9cdc50f9557?source=rss-26796c72c7e6------2)
