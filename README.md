@@ -4,8 +4,6 @@
 
 <p align="center">
 
-<a href="https://github.com/Dexters-Hub" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/Dexters-Hub/Dexters-Hub?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-
   <a href="https://www.youtube.com/channel/UCtvnB6R__6vdyjUEbDgAWHw">
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCtvnB6R__6vdyjUEbDgAWHw&key=AIzaSyCYf4DTqMy082gf2BVjyZ_AZS30rS2Rvl0"/>
   </a>
@@ -14,17 +12,20 @@
   </a>
   <a href="https://twitter.com/_alwin_john"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/_alwin_john?logo=Twitter&style=flat-square"/></a>
   <a href="https://github.com/Dexters-Hub"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Dexters-Hub?logo=Github&style=flat-square"/></a>
+  <a href="https://github.com/Dexters-Hub" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/Dexters-Hub/Dexters-Hub?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 </p>
 
-## 📖 About me
+<h2 align="center"> 📖 About me</h2>
+<center>
 
-- 💻 I'm a web developer
-- 🎨 I'm a self-taught UI designer
-- 📱 I make apps using flutter
-- 🎓 I'm a Computer Science student (graduating in October 2023)
-- 🌐 You can see some of my projects on [my portfolio]()
-- 📺 I make contents on [YouTube](https://www.youtube.com/c/AlwinJohn)
+💻 I'm a web developer<br>
+🎨 I'm a self-taught UI designer<br>
+📱 I make apps using flutter<br>
+🎓 I'm a Computer Science student (graduating in October 2023)<br>
+🌐 You can see some of my projects on [my portfolio]()<br>
+📺 I make contents on [YouTube](https://www.youtube.com/c/AlwinJohn)<br>
 
+</center>
 <p align="center">
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dexters-Hub"/>
@@ -33,9 +34,9 @@
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/Dexters-Hub?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
-## 🙋‍♂️ Connect with me:
+<h2 align="center"> 🙋‍♂️ Connect with me:</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.youtube.com/c/AlwinJohn"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alwinjohn/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/_alwin_john"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -43,8 +44,9 @@
 
 </p>
 
-## 👨‍💻 Languages and Tools:
+<h2 align="center"> 👨‍💻 Languages and Tools:</h2>
 
+<center>
 <table>
     <tbody>
         <tr>
@@ -107,7 +109,7 @@
         </tr>
     </tbody>
 </table>
-
+</center>
 <br />
 <br />
 
@@ -133,7 +135,11 @@
 
 ---
 
+<center>
+
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/AlwinJohn?sub_confirmation=1)
+
+</center>
 
 ### 📕 Latest Blog Posts
 
