@@ -2,6 +2,17 @@
 
 <h1 align="center">Hey there, I'm <a href="#">Alwin John</a> - aka Dexters-Hub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCtvnB6R__6vdyjUEbDgAWHw">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCtvnB6R__6vdyjUEbDgAWHw&key=AIzaSyCYf4DTqMy082gf2BVjyZ_AZS30rS2Rvl0"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCtvnB6R__6vdyjUEbDgAWHw">
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCtvnB6R__6vdyjUEbDgAWHw&key=AIzaSyCYf4DTqMy082gf2BVjyZ_AZS30rS2Rvl0"/>
+  </a>
+  <a href="https://twitter.com/_alwin_john"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/_alwin_john?logo=Twitter&style=flat-square"/></a>
+  <a href="https://github.com/Dexters-Hub"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Dexters-Hub?logo=Github&style=flat-square"/></a>
+</p>
+
 ## 📖 About me
 
 - 💻 I'm a web developer
