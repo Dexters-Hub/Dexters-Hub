@@ -112,7 +112,9 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=3reZL3dXjAg"><img width="140px" src="https://i.ytimg.com/vi/3reZL3dXjAg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START -->
+<table>
+<tr><td><a href="https://www.youtube.com/watch?v=3reZL3dXjAg"><img width="140px" src="https://i.ytimg.com/vi/3reZL3dXjAg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3reZL3dXjAg">Nenjikulle Peidhidum | Vaaranam Aayiram - Fingerstyle Guitar Cover | Alwin John</a><br/>Dec 31, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=KNl6nN-EEuw"><img width="140px" src="https://i.ytimg.com/vi/KNl6nN-EEuw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KNl6nN-EEuw">Cherathukal | ചെരാതുകൾ | Kumbalangi Nights - Fingerstyle Guitar Cover Malayalam | Alwin John</a><br/>Dec 22, 2020</td></tr>
@@ -122,6 +124,8 @@
 <td><a href="https://www.youtube.com/watch?v=2xy_wfKO4KQ">Memories (Maroon 5) - Fingerstyle Guitar Cover | Alwin John</a><br/>Oct 27, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=4I-J9-hK94Q"><img width="140px" src="https://i.ytimg.com/vi/4I-J9-hK94Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4I-J9-hK94Q">How to Type 2x Faster using Touch Typing | Basic Keyboard Tutorial | Malayalam</a><br/>Oct 18, 2020</td></tr>
+
+</table>
 <!-- YOUTUBE:END -->
 
 ---
@@ -131,6 +135,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Touch Typing](https://dev.to/dextershub/touch-typing-3bm4)
 - [What is Ethereum?](https://medium.com/@alwinjohn/what-is-ethereum-c34fd27310db?source=rss-26796c72c7e6------2)
 - [Key Concepts of Blockchain](https://medium.com/@alwinjohn/key-concepts-of-blockchain-a9cdc50f9557?source=rss-26796c72c7e6------2)
