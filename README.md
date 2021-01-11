@@ -103,11 +103,6 @@
 
 <!-- YOUTUBE:START -->
 
-- [Nenjikulle Peidhidum | Vaaranam Aayiram - Fingerstyle Guitar Cover | Alwin John](https://www.youtube.com/watch?v=3reZL3dXjAg)
-- [Cherathukal | ചെരാതുകൾ | Kumbalangi Nights - Fingerstyle Guitar Cover Malayalam | Alwin John](https://www.youtube.com/watch?v=KNl6nN-EEuw)
-- [(Kumbalangi Nights) - ഉയിരിൽ തൊടും Uyiril Thodum | Fingerstyle Guitar Cover](https://www.youtube.com/watch?v=Ae--utlFWm8)
-- [Memories (Maroon 5) - Fingerstyle Guitar Cover | Alwin John](https://www.youtube.com/watch?v=2xy_wfKO4KQ)
-- [How to Type 2x Faster using Touch Typing | Basic Keyboard Tutorial | Malayalam](https://www.youtube.com/watch?v=4I-J9-hK94Q)
 <!-- YOUTUBE:END -->
 
 ---
