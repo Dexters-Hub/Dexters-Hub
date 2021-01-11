@@ -134,11 +134,11 @@
 
 ---
 
-<center>
+<div align="center">
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/AlwinJohn?sub_confirmation=1)
 
-</center>
+</div>
 
 ### 📕 Latest Blog Posts
 
