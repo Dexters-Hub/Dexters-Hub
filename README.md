@@ -16,12 +16,14 @@
 
 <h2 align="center"> 📖 About me</h2>
 <p align ="center">
+
 💻 I'm a web developer<br>
 🎨 I'm a self-taught UI designer<br>
 📱 I make apps using flutter<br>
 🎓 I'm a Computer Science student (graduating in October 2023)<br>
 🌐 You can see some of my projects on [my portfolio]()<br>
 📺 I make contents on [YouTube](https://www.youtube.com/c/AlwinJohn)<br>
+
 </p>
 
 <p align="center">
