@@ -164,8 +164,8 @@
   <br/>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/psathyanarayan/whatsapp-music-bot/pull/1) in [psathyanarayan/whatsapp-music-bot](https://github.com/psathyanarayan/whatsapp-music-bot)
-2. 💪 Opened PR [#2](https://github.com/Arjun-Varma2/test/pull/2) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
-3. 💪 Opened PR [#1](https://github.com/Arjun-Varma2/test/pull/1) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
-4. 🎉 Merged PR [#2](https://github.com/Dexters-Hub/Java_Simple_Programs/pull/2) in [Dexters-Hub/Java_Simple_Programs](https://github.com/Dexters-Hub/Java_Simple_Programs)
+1. 💪 Opened PR [#4](https://github.com/Arjun-Varma2/test/pull/4) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
+2. ❌ Closed PR [#3](https://github.com/Arjun-Varma2/test/pull/3) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
+3. 💪 Opened PR [#3](https://github.com/Arjun-Varma2/test/pull/3) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
+4. 💪 Opened PR [#1](https://github.com/psathyanarayan/whatsapp-music-bot/pull/1) in [psathyanarayan/whatsapp-music-bot](https://github.com/psathyanarayan/whatsapp-music-bot)
 <!--END_SECTION:activity-->
