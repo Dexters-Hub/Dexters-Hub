@@ -164,8 +164,8 @@
   <br/>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6](https://github.com/Arjun-Varma2/test/pull/6) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
-2. 💪 Opened PR [#5](https://github.com/Arjun-Varma2/test/pull/5) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
-3. 💪 Opened PR [#4](https://github.com/Arjun-Varma2/test/pull/4) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
-4. ❌ Closed PR [#3](https://github.com/Arjun-Varma2/test/pull/3) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
+1. ❌ Closed PR [#6](https://github.com/Arjun-Varma2/test/pull/6) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
+2. 💪 Opened PR [#6](https://github.com/Arjun-Varma2/test/pull/6) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
+3. 💪 Opened PR [#5](https://github.com/Arjun-Varma2/test/pull/5) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
+4. 💪 Opened PR [#4](https://github.com/Arjun-Varma2/test/pull/4) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
 <!--END_SECTION:activity-->
