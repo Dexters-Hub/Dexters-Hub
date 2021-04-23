@@ -116,7 +116,9 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fVpW4oXyQtw"><img width="140px" src="https://i.ytimg.com/vi/fVpW4oXyQtw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VAlWINAD7oI"><img width="140px" src="https://i.ytimg.com/vi/VAlWINAD7oI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VAlWINAD7oI">Dooreyo | ദൂരെയോ | Anandam - Fingerstyle Guitar Cover Malayalam | Alwin John</a><br/>Apr 23, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fVpW4oXyQtw"><img width="140px" src="https://i.ytimg.com/vi/fVpW4oXyQtw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fVpW4oXyQtw">പഠനം എങ്ങനെ പഠിക്കാം - Learning How to Learn | Method #1 | For Students</a><br/>Apr 20, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JLvTZpVE-qs"><img width="140px" src="https://i.ytimg.com/vi/JLvTZpVE-qs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JLvTZpVE-qs">(അനുഗ്രഹത്തിൻ അധിപതിയെ) Anugrahathin Athipathiye - Fingerstyle Guitar Cover | Alwin John | 2021</a><br/>Apr 16, 2021</td></tr></table>
@@ -124,8 +126,6 @@
 <td><a href="https://www.youtube.com/watch?v=PoE_X-ON-xc">Google Developer Student Club (DSC) Lead Application 2021 | Alwin John |</a><br/>Apr 13, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nCBT4-FmGxo"><img width="140px" src="https://i.ytimg.com/vi/nCBT4-FmGxo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nCBT4-FmGxo">Faded - (Alan Walker) Fingerstyle Guitar Cover | Alwin John</a><br/>Mar 13, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=TiMy0bhFFus"><img width="140px" src="https://i.ytimg.com/vi/TiMy0bhFFus/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TiMy0bhFFus">Aaradhike Guitar Cover | Ambili | Alwin John</a><br/>Mar 5, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
