@@ -164,8 +164,8 @@
   <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/Dexters-Hub/github-slideshow/pull/3) in [Dexters-Hub/github-slideshow](https://github.com/Dexters-Hub/github-slideshow)
-2. 💪 Opened PR [#3](https://github.com/Dexters-Hub/github-slideshow/pull/3) in [Dexters-Hub/github-slideshow](https://github.com/Dexters-Hub/github-slideshow)
-3. ❗️ Closed issue [#1](https://github.com/Dexters-Hub/github-slideshow/issues/1) in [Dexters-Hub/github-slideshow](https://github.com/Dexters-Hub/github-slideshow)
-4. 💪 Opened PR [#9](https://github.com/Arjun-Varma2/test/pull/9) in [Arjun-Varma2/test](https://github.com/Arjun-Varma2/test)
+1. 🎉 Merged PR [#7](https://github.com/Dexters-Hub/intro-html/pull/7) in [Dexters-Hub/intro-html](https://github.com/Dexters-Hub/intro-html)
+2. 🎉 Merged PR [#6](https://github.com/Dexters-Hub/intro-html/pull/6) in [Dexters-Hub/intro-html](https://github.com/Dexters-Hub/intro-html)
+3. 💪 Opened PR [#6](https://github.com/Dexters-Hub/intro-html/pull/6) in [Dexters-Hub/intro-html](https://github.com/Dexters-Hub/intro-html)
+4. 🎉 Merged PR [#4](https://github.com/Dexters-Hub/intro-html/pull/4) in [Dexters-Hub/intro-html](https://github.com/Dexters-Hub/intro-html)
 <!--END_SECTION:activity-->
