@@ -117,9 +117,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NuufGs_xZ08"><img width="140px" src="https://i.ytimg.com/vi/NuufGs_xZ08/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NuufGs_xZ08">Chapter 1 - #2- Evolution of Computing | Kerala Syllabus | +1 Computer Science | Malayalam</a><br/>Jun 15, 2021</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=NuufGs_xZ08">(+1 Computer Science) Discipline of Computing #2 - Evolution of Computing Machines Pt.1 | Malayalam</a><br/>Jun 15, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7USD-C_gJEg"><img width="140px" src="https://i.ytimg.com/vi/7USD-C_gJEg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7USD-C_gJEg">Chapter 1 - #1- Positional Number System | Kerala Syllabus | +1 Computer Science | Malayalam</a><br/>Jun 10, 2021</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=7USD-C_gJEg">(+1 Computer Science) Discipline of Computing #1 - Positional Number System | Malayalam</a><br/>Jun 10, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hbD3qSU4q5A"><img width="140px" src="https://i.ytimg.com/vi/hbD3qSU4q5A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hbD3qSU4q5A">Kal Ho Naa Ho - Fingerstyle Guitar Cover | Alwin John</a><br/>Apr 30, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VAlWINAD7oI"><img width="140px" src="https://i.ytimg.com/vi/VAlWINAD7oI/mqdefault.jpg"></a></td>
