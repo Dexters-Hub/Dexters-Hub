@@ -116,7 +116,9 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NuufGs_xZ08"><img width="140px" src="https://i.ytimg.com/vi/NuufGs_xZ08/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hdXatwjdXnA"><img width="140px" src="https://i.ytimg.com/vi/hdXatwjdXnA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hdXatwjdXnA">(+1 Computer Science) Discipline of Computing #2 - Evolution of Computing Machines Pt.2 | Malayalam</a><br/>Jun 22, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NuufGs_xZ08"><img width="140px" src="https://i.ytimg.com/vi/NuufGs_xZ08/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NuufGs_xZ08">(+1 Computer Science) Discipline of Computing #2 - Evolution of Computing Machines Pt.1 | Malayalam</a><br/>Jun 15, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7USD-C_gJEg"><img width="140px" src="https://i.ytimg.com/vi/7USD-C_gJEg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7USD-C_gJEg">(+1 Computer Science) Discipline of Computing #1 - Positional Number System | Malayalam</a><br/>Jun 10, 2021</td></tr></table>
@@ -124,8 +126,6 @@
 <td><a href="https://www.youtube.com/watch?v=hbD3qSU4q5A">Kal Ho Naa Ho - Fingerstyle Guitar Cover | Alwin John</a><br/>Apr 30, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VAlWINAD7oI"><img width="140px" src="https://i.ytimg.com/vi/VAlWINAD7oI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VAlWINAD7oI">Dooreyo | ദൂരെയോ | Anandam - Fingerstyle Guitar Cover Malayalam | Alwin John</a><br/>Apr 23, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fVpW4oXyQtw"><img width="140px" src="https://i.ytimg.com/vi/fVpW4oXyQtw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fVpW4oXyQtw">പഠനം എങ്ങനെ പഠിക്കാം - Learning How to Learn | Method #1 | For Students</a><br/>Apr 20, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
