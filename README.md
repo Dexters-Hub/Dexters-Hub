@@ -166,6 +166,6 @@
 
 1. 🗣 Commented on [#99](https://github.com/Coders-Evoke-Community/CodersEvoke_website/issues/99) in [Coders-Evoke-Community/CodersEvoke_website](https://github.com/Coders-Evoke-Community/CodersEvoke_website)
 2. 🗣 Commented on [#99](https://github.com/Coders-Evoke-Community/CodersEvoke_website/issues/99) in [Coders-Evoke-Community/CodersEvoke_website](https://github.com/Coders-Evoke-Community/CodersEvoke_website)
-3. 🎉 Merged PR [#1](https://github.com/TinkerHub-CEC/mashithandu/pull/1) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
-4. 💪 Opened PR [#1](https://github.com/TinkerHub-CEC/mashithandu/pull/1) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
+3. 🗣 Commented on [#99](https://github.com/Coders-Evoke-Community/CodersEvoke_website/issues/99) in [Coders-Evoke-Community/CodersEvoke_website](https://github.com/Coders-Evoke-Community/CodersEvoke_website)
+4. 🎉 Merged PR [#1](https://github.com/TinkerHub-CEC/mashithandu/pull/1) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
 <!--END_SECTION:activity-->
