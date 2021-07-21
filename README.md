@@ -164,8 +164,8 @@
   <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/TinkerHub-CEC/mashithandu/pull/1) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
-2. 💪 Opened PR [#1](https://github.com/TinkerHub-CEC/mashithandu/pull/1) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
-3. 🎉 Merged PR [#13](https://github.com/TinkerHub-CEC/Shelf/pull/13) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-4. 💪 Opened PR [#13](https://github.com/TinkerHub-CEC/Shelf/pull/13) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+1. 🗣 Commented on [#99](https://github.com/Coders-Evoke-Community/CodersEvoke_website/issues/99) in [Coders-Evoke-Community/CodersEvoke_website](https://github.com/Coders-Evoke-Community/CodersEvoke_website)
+2. 🎉 Merged PR [#1](https://github.com/TinkerHub-CEC/mashithandu/pull/1) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
+3. 💪 Opened PR [#1](https://github.com/TinkerHub-CEC/mashithandu/pull/1) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
+4. 🎉 Merged PR [#13](https://github.com/TinkerHub-CEC/Shelf/pull/13) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
 <!--END_SECTION:activity-->
