@@ -165,7 +165,7 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#6792](https://github.com/badges/shields/issues/6792) in [badges/shields](https://github.com/badges/shields)
-2. 💪 Opened PR [#106](https://github.com/Coders-Evoke-Community/CodersEvoke_website/pull/106) in [Coders-Evoke-Community/CodersEvoke_website](https://github.com/Coders-Evoke-Community/CodersEvoke_website)
-3. 🗣 Commented on [#99](https://github.com/Coders-Evoke-Community/CodersEvoke_website/issues/99) in [Coders-Evoke-Community/CodersEvoke_website](https://github.com/Coders-Evoke-Community/CodersEvoke_website)
+2. 🗣 Commented on [#6792](https://github.com/badges/shields/issues/6792) in [badges/shields](https://github.com/badges/shields)
+3. 💪 Opened PR [#106](https://github.com/Coders-Evoke-Community/CodersEvoke_website/pull/106) in [Coders-Evoke-Community/CodersEvoke_website](https://github.com/Coders-Evoke-Community/CodersEvoke_website)
 4. 🗣 Commented on [#99](https://github.com/Coders-Evoke-Community/CodersEvoke_website/issues/99) in [Coders-Evoke-Community/CodersEvoke_website](https://github.com/Coders-Evoke-Community/CodersEvoke_website)
 <!--END_SECTION:activity-->
