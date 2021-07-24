@@ -164,8 +164,8 @@
   <br/>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6813](https://github.com/badges/shields/pull/6813) in [badges/shields](https://github.com/badges/shields)
-2. 🗣 Commented on [#6792](https://github.com/badges/shields/issues/6792) in [badges/shields](https://github.com/badges/shields)
+1. 💪 Opened PR [#13](https://github.com/TH-Activities/saturday-hack-night-dialogflow/pull/13) in [TH-Activities/saturday-hack-night-dialogflow](https://github.com/TH-Activities/saturday-hack-night-dialogflow)
+2. 💪 Opened PR [#6813](https://github.com/badges/shields/pull/6813) in [badges/shields](https://github.com/badges/shields)
 3. 🗣 Commented on [#6792](https://github.com/badges/shields/issues/6792) in [badges/shields](https://github.com/badges/shields)
 4. 🗣 Commented on [#6792](https://github.com/badges/shields/issues/6792) in [badges/shields](https://github.com/badges/shields)
 <!--END_SECTION:activity-->
