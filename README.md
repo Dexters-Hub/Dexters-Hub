@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center"><a href="#"><img width="75%" height="auto" src="https://media.giphy.com/media/84OBoA0Lf4eXtZFmOh/giphy.gif"/></a></p>
 
-<h1 align="center">Hey there, I'm <a href="#">Alwin John</a> - aka Dexters-Hub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+<h1 align="center">Hey there, I'm <a href="https://www.alwinjohn.tech/">Alwin John</a> - aka Dexters-Hub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCtvnB6R__6vdyjUEbDgAWHw">
@@ -21,7 +21,7 @@
 🎨 I'm a self-taught UI designer<br>
 📱 I make apps using flutter<br>
 🎓 I'm a Computer Science student (graduating in October 2023)<br>
-🌐 You can see some of my projects on [my portfolio]()<br>
+🌐 You can see some of my projects on [my portfolio](https://www.alwinjohn.tech/)<br>
 📺 I make contents on [YouTube](https://www.youtube.com/c/AlwinJohn)<br>
 
 </div>
@@ -41,6 +41,7 @@
   <a href="https://www.linkedin.com/in/alwinjohn/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/_alwin_john"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://dev.to/dextershub"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://linktr.ee/alwinjohn"><img src="https://img.shields.io/badge/Linktree-39E09B.svg?style=for-the-badge&logo=Linktree&logoColor=white"></a>
 
 </p>
 
@@ -58,11 +59,11 @@
               <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
                           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
               </td>
-              <td><a href="#"><img alt="Vue.js" title="Vue.js" height="28px"
-                          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /></a>
+              <td><a href="#"><img alt="React.js" title="React.js" height="28px"
+                          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
               </td>
-              <td><a href="#"><img alt="Django" title="Django" height="28px"
-                          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></a>
+              <td><a href="#"><img alt="Next" title="Next.js" height="20px"
+                          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" /></a>
               </td>
           </tr>
           <tr>
@@ -85,9 +86,9 @@
               <td><a href="#"><img alt="SQL" title="SQL" height="28px"
                           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
               </td>
-              <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
-                          src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
-              <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
+              <td><a href="#"><img alt="AWS" title="AWS" height="18px"
+                          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" /></a></td>
+              <td><a href="#"><img alt="Markdown" title="Markdown" height="20px"
                           src="https://i.imgur.com/eO5z1xV.png" /></a></td>
               <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                           src="https://i.imgur.com/DZgetVv.png" /></a>
@@ -99,10 +100,10 @@
               </td>
               <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                           src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
-              <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
-                          src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-              <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
-                          src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
+              <td><a href="#"><img alt="Google" title="Google" height="28px"
+                          src="https://pbs.twimg.com/profile_images/1343584679664873479/Xos3xQfk_400x400.jpg" /></a></td>
+              <td><a href="#"><img alt="Vercel" title="Vercel" height="28px"
+                          src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" /></a></td>
               <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
                           src="https://i.imgur.com/UfBWFbP.png" /></a></td>
           </tr>
@@ -112,9 +113,37 @@
 <br />
 <br />
 
+<h2 align="center"> 💻 Coding Profiles:</h2>
+<br/>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/DextersHub"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://www.hackerearth.com/@Dexters-Hub"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
+  <a href="https://leetcode.com/Dexters-Hub/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://www.codechef.com/users/dexters_hub"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
+  <a href="https://www.codewars.com/users/Dexters-Hub"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white"><a/>
+  <a href="https://codeforces.com/profile/Dexters-Hub"><img alt="Code Forces" src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"><a/>
+</p>
+
+<br/>
+
+<h2 align="center"> 🏆 GitHub Achievements:</h2>
+
+<br/>
+
+<p align="center">
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Dexters-Hub&row=1&theme=discord"></a>
+</p>
+
 ---
 
 ### 📺 Latest YouTube Videos
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/AlwinJohn?sub_confirmation=1)
+
+</div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mTxtxHt7lBE"><img width="140px" src="https://i.ytimg.com/vi/mTxtxHt7lBE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mTxtxHt7lBE">(+1 Computer Science) Discipline of Computing #3 - Evolution of Computing Machines Pt.3 | Malayalam</a><br/>Jul 5, 2021</td></tr></table>
@@ -130,15 +159,10 @@
 
 ---
 
-<div align="center">
-
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/AlwinJohn?sub_confirmation=1)
-
-</div>
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Touch Typing](https://dev.to/dextershub/touch-typing-3bm4)
 - [What is Ethereum?](https://medium.com/@alwinjohn/what-is-ethereum-c34fd27310db?source=rss-26796c72c7e6------2)
 - [Key Concepts of Blockchain](https://medium.com/@alwinjohn/key-concepts-of-blockchain-a9cdc50f9557?source=rss-26796c72c7e6------2)
@@ -147,21 +171,27 @@
 
 ---
 
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github-readme-stats.dexters-hub.vercel.app/api?username=Dexters-Hub&show_icons=true"><img src="https://github-readme-stats.dexters-hub.vercel.app/api?username=Dexters-Hub&show_icons=true"></a>
-  </details>
+  <h2 align="center"> 📊 GitHub Profile Stats </h2>
 
-<details> 
-  <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github-readme-stats.dexters-hub.vercel.app/api/top-langs/?username=Dexters-Hub&langs_count=10&layout=compact"><img src = "https://github-readme-stats.dexters-hub.vercel.app/api/top-langs/?username=Dexters-Hub&langs_count=10&layout=compact"></a>
-  </details>
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <p align="center">
+  <a href="https://github-readme-stats.dexters-hub.vercel.app/api?username=Dexters-Hub&show_icons=true"><img src="https://github-readme-stats.dexters-hub.vercel.app/api?username=Dexters-Hub&show_icons=true&include_all_commits=true&theme=material-palenight"></a></p>
+
+<br/>
+<br/>
+
+  <h2 align="center">💻 Most used languages</h2>
+
   <br/>
+  <p align="center"><a href="https://github-readme-stats.dexters-hub.vercel.app/api/top-langs/?username=Dexters-Hub&langs_count=10&layout=compact"><img src = "https://github-readme-stats.dexters-hub.vercel.app/api/top-langs/?username=Dexters-Hub&langs_count=10&layout=compact&theme=material-palenight"></a></p>
+
+<br/>
+<br/>
+
+### ⚡ Recent GitHub Activity
+
+<br/>
 <!--START_SECTION:activity-->
 
 1. 💪 Opened PR [#13](https://github.com/TH-Activities/saturday-hack-night-dialogflow/pull/13) in [TH-Activities/saturday-hack-night-dialogflow](https://github.com/TH-Activities/saturday-hack-night-dialogflow)
