@@ -193,8 +193,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#17](https://github.com/TinkerHub-CEC/Shelf/pull/17) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-2. 🎉 Merged PR [#15](https://github.com/TinkerHub-CEC/Shelf/pull/15) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-3. 💪 Opened PR [#119](https://github.com/tinkerhub/TinkerHub-Learning-Paths/pull/119) in [tinkerhub/TinkerHub-Learning-Paths](https://github.com/tinkerhub/TinkerHub-Learning-Paths)
-4. 🎉 Merged PR [#14](https://github.com/TinkerHub-CEC/Shelf/pull/14) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+1. 💪 Opened PR [#18](https://github.com/TinkerHub-CEC/Shelf/pull/18) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+2. 🎉 Merged PR [#17](https://github.com/TinkerHub-CEC/Shelf/pull/17) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+3. 🎉 Merged PR [#15](https://github.com/TinkerHub-CEC/Shelf/pull/15) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+4. 💪 Opened PR [#119](https://github.com/tinkerhub/TinkerHub-Learning-Paths/pull/119) in [tinkerhub/TinkerHub-Learning-Paths](https://github.com/tinkerhub/TinkerHub-Learning-Paths)
 <!--END_SECTION:activity-->
