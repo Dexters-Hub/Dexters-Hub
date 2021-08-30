@@ -193,8 +193,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#19](https://github.com/TinkerHub-CEC/Shelf/pull/19) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-2. 🎉 Merged PR [#5](https://github.com/TinkerHub-CEC/mashithandu/pull/5) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
-3. 🎉 Merged PR [#4](https://github.com/TinkerHub-CEC/mashithandu/pull/4) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
-4. 🎉 Merged PR [#3](https://github.com/TinkerHub-CEC/mashithandu/pull/3) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
+1. 🎉 Merged PR [#21](https://github.com/TinkerHub-CEC/Shelf/pull/21) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+2. 💪 Opened PR [#21](https://github.com/TinkerHub-CEC/Shelf/pull/21) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+3. 🎉 Merged PR [#19](https://github.com/TinkerHub-CEC/Shelf/pull/19) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+4. 🎉 Merged PR [#5](https://github.com/TinkerHub-CEC/mashithandu/pull/5) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
 <!--END_SECTION:activity-->
