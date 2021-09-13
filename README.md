@@ -193,8 +193,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#35](https://github.com/TinkerHub-CEC/Shelf/issues/35) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-2. 🗣 Commented on [#49](https://github.com/TinkerHub-CEC/Shelf/issues/49) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-3. 🗣 Commented on [#49](https://github.com/TinkerHub-CEC/Shelf/issues/49) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-4. 🗣 Commented on [#48](https://github.com/TinkerHub-CEC/Shelf/issues/48) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+1. 🗣 Commented on [#40](https://github.com/TinkerHub-CEC/Shelf/issues/40) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+2. 🗣 Commented on [#52](https://github.com/TinkerHub-CEC/Shelf/issues/52) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+3. ❗️ Closed issue [#50](https://github.com/TinkerHub-CEC/Shelf/issues/50) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+4. ❗️ Closed issue [#48](https://github.com/TinkerHub-CEC/Shelf/issues/48) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
 <!--END_SECTION:activity-->
