@@ -193,8 +193,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#67](https://github.com/TinkerHub-CEC/Shelf/pull/67) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-2. 🎉 Merged PR [#64](https://github.com/TinkerHub-CEC/Shelf/pull/64) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-3. 💪 Opened PR [#64](https://github.com/TinkerHub-CEC/Shelf/pull/64) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-4. 🎉 Merged PR [#63](https://github.com/TinkerHub-CEC/Shelf/pull/63) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+1. ❗️ Closed issue [#66](https://github.com/TinkerHub-CEC/Shelf/issues/66) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+2. 🗣 Commented on [#66](https://github.com/TinkerHub-CEC/Shelf/issues/66) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+3. ❗️ Closed issue [#62](https://github.com/TinkerHub-CEC/Shelf/issues/62) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+4. 🎉 Merged PR [#68](https://github.com/TinkerHub-CEC/Shelf/pull/68) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
 <!--END_SECTION:activity-->
