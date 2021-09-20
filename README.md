@@ -193,8 +193,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#70](https://github.com/TinkerHub-CEC/Shelf/pull/70) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-2. 🎉 Merged PR [#69](https://github.com/TinkerHub-CEC/Shelf/pull/69) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-3. ❗️ Closed issue [#66](https://github.com/TinkerHub-CEC/Shelf/issues/66) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-4. 🗣 Commented on [#66](https://github.com/TinkerHub-CEC/Shelf/issues/66) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+1. ❌ Closed PR [#126](https://github.com/kamranahmedse/design-patterns-for-humans/pull/126) in [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+2. 💪 Opened PR [#126](https://github.com/kamranahmedse/design-patterns-for-humans/pull/126) in [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+3. 🎉 Merged PR [#70](https://github.com/TinkerHub-CEC/Shelf/pull/70) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+4. 🎉 Merged PR [#69](https://github.com/TinkerHub-CEC/Shelf/pull/69) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
 <!--END_SECTION:activity-->
