@@ -193,8 +193,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/cecieee/cecieee-frontend/pull/1) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
-2. ❌ Closed PR [#126](https://github.com/kamranahmedse/design-patterns-for-humans/pull/126) in [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-3. 💪 Opened PR [#126](https://github.com/kamranahmedse/design-patterns-for-humans/pull/126) in [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-4. 🎉 Merged PR [#70](https://github.com/TinkerHub-CEC/Shelf/pull/70) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+1. 🎉 Merged PR [#1](https://github.com/cecieee/cecieee-frontend/pull/1) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+2. 💪 Opened PR [#1](https://github.com/cecieee/cecieee-frontend/pull/1) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+3. ❌ Closed PR [#126](https://github.com/kamranahmedse/design-patterns-for-humans/pull/126) in [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+4. 💪 Opened PR [#126](https://github.com/kamranahmedse/design-patterns-for-humans/pull/126) in [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 <!--END_SECTION:activity-->
