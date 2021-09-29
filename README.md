@@ -193,8 +193,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#275](https://github.com/vitejs/awesome-vite/pull/275) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
-2. 💪 Opened PR [#275](https://github.com/vitejs/awesome-vite/pull/275) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
-3. 🎉 Merged PR [#2](https://github.com/cecieee/cecieee-frontend/pull/2) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
-4. 💪 Opened PR [#2](https://github.com/cecieee/cecieee-frontend/pull/2) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+1. 🎉 Merged PR [#3](https://github.com/cecieee/cecieee-frontend/pull/3) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+2. ❌ Closed PR [#275](https://github.com/vitejs/awesome-vite/pull/275) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+3. 💪 Opened PR [#275](https://github.com/vitejs/awesome-vite/pull/275) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+4. 🎉 Merged PR [#2](https://github.com/cecieee/cecieee-frontend/pull/2) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
 <!--END_SECTION:activity-->
