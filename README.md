@@ -193,8 +193,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Dexters-Hub/Python-Projects/pull/1) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
-2. 🗣 Commented on [#7511](https://github.com/appsmithorg/appsmith/issues/7511) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
-3. 🎉 Merged PR [#4](https://github.com/cecieee/cecieee-frontend/pull/4) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
-4. 💪 Opened PR [#4](https://github.com/cecieee/cecieee-frontend/pull/4) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+1. 🎉 Merged PR [#3](https://github.com/Dexters-Hub/Python-Projects/pull/3) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
+2. 🎉 Merged PR [#2](https://github.com/Dexters-Hub/Python-Projects/pull/2) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
+3. 🎉 Merged PR [#1](https://github.com/Dexters-Hub/Python-Projects/pull/1) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
+4. 🗣 Commented on [#7511](https://github.com/appsmithorg/appsmith/issues/7511) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
 <!--END_SECTION:activity-->
