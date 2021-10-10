@@ -193,8 +193,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/cecieee/cecieee-frontend/pull/5) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
-2. 🎉 Merged PR [#20](https://github.com/TinkerHub-CEC/mashithandu/pull/20) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
-3. 🎉 Merged PR [#19](https://github.com/TinkerHub-CEC/mashithandu/pull/19) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
-4. 🎉 Merged PR [#17](https://github.com/TinkerHub-CEC/mashithandu/pull/17) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
+1. 🎉 Merged PR [#6](https://github.com/cecieee/cecieee-frontend/pull/6) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+2. 💪 Opened PR [#6](https://github.com/cecieee/cecieee-frontend/pull/6) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+3. 🎉 Merged PR [#5](https://github.com/cecieee/cecieee-frontend/pull/5) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+4. 🎉 Merged PR [#20](https://github.com/TinkerHub-CEC/mashithandu/pull/20) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
 <!--END_SECTION:activity-->
