@@ -35,6 +35,13 @@
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/Dexters-Hub?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 <h2 align="center"> 🙋‍♂️ Connect with me:</h2>
+<br/>
+<div align="center">
+  <a href="https://app.daily.dev/alwinjohn">
+    <img src="https://api.daily.dev/devcards/e1eb4113303442b587da8dc153ad8cc4.png?r=4kv" width="200" alt="ALWIN JOHN's Dev Card"/>
+  </a>
+</div>
+<br/>
 
 <p align="center">
   <a href="https://www.youtube.com/c/AlwinJohn"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
