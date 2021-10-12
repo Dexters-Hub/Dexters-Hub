@@ -200,8 +200,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/cecieee/cecieee-frontend/pull/7) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
-2. 🎉 Merged PR [#6](https://github.com/cecieee/cecieee-frontend/pull/6) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
-3. 💪 Opened PR [#6](https://github.com/cecieee/cecieee-frontend/pull/6) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
-4. 🎉 Merged PR [#5](https://github.com/cecieee/cecieee-frontend/pull/5) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+1. ❗️ Opened issue [#1](https://github.com/Dexters-Hub/quote-generator/issues/1) in [Dexters-Hub/quote-generator](https://github.com/Dexters-Hub/quote-generator)
+2. 🎉 Merged PR [#7](https://github.com/cecieee/cecieee-frontend/pull/7) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+3. 🎉 Merged PR [#6](https://github.com/cecieee/cecieee-frontend/pull/6) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+4. 💪 Opened PR [#6](https://github.com/cecieee/cecieee-frontend/pull/6) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
 <!--END_SECTION:activity-->
