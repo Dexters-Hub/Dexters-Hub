@@ -200,8 +200,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#88](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates/issues/88) in [Coders-Evoke-Community/Amazing-Frontend_Templates](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates)
-2. 🗣 Commented on [#88](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates/issues/88) in [Coders-Evoke-Community/Amazing-Frontend_Templates](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates)
-3. ❗️ Opened issue [#88](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates/issues/88) in [Coders-Evoke-Community/Amazing-Frontend_Templates](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates)
-4. 🎉 Merged PR [#8](https://github.com/Dexters-Hub/Python-Projects/pull/8) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
+1. 🎉 Merged PR [#9](https://github.com/Dexters-Hub/Python-Projects/pull/9) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
+2. 🎉 Merged PR [#9](https://github.com/cecieee/cecieee-frontend/pull/9) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+3. 🗣 Commented on [#88](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates/issues/88) in [Coders-Evoke-Community/Amazing-Frontend_Templates](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates)
+4. 🗣 Commented on [#88](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates/issues/88) in [Coders-Evoke-Community/Amazing-Frontend_Templates](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates)
 <!--END_SECTION:activity-->
