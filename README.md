@@ -200,8 +200,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#11](https://github.com/Dexters-Hub/Python-Projects/pull/11) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
-2. 🎉 Merged PR [#10](https://github.com/Dexters-Hub/Python-Projects/pull/10) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
-3. 💪 Opened PR [#47](https://github.com/AbhayVAshokan/Hack-NASA-using-HTML/pull/47) in [AbhayVAshokan/Hack-NASA-using-HTML](https://github.com/AbhayVAshokan/Hack-NASA-using-HTML)
-4. ❌ Closed PR [#1](https://github.com/TinkerHub-CEC/mashithandu/pull/1) in [TinkerHub-CEC/mashithandu](https://github.com/TinkerHub-CEC/mashithandu)
+1. 🎉 Merged PR [#12](https://github.com/Dexters-Hub/Python-Projects/pull/12) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
+2. 🎉 Merged PR [#11](https://github.com/Dexters-Hub/Python-Projects/pull/11) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
+3. 🎉 Merged PR [#10](https://github.com/Dexters-Hub/Python-Projects/pull/10) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
+4. 💪 Opened PR [#47](https://github.com/AbhayVAshokan/Hack-NASA-using-HTML/pull/47) in [AbhayVAshokan/Hack-NASA-using-HTML](https://github.com/AbhayVAshokan/Hack-NASA-using-HTML)
 <!--END_SECTION:activity-->
