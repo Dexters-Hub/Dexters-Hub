@@ -200,8 +200,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/cecieee/cecieee-frontend/pull/10) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
-2. 🎉 Merged PR [#12](https://github.com/Dexters-Hub/Python-Projects/pull/12) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
-3. 🎉 Merged PR [#11](https://github.com/Dexters-Hub/Python-Projects/pull/11) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
-4. 🎉 Merged PR [#10](https://github.com/Dexters-Hub/Python-Projects/pull/10) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
+1. 💪 Opened PR [#13](https://github.com/cecieee/cecieee-frontend/pull/13) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+2. 🎉 Merged PR [#10](https://github.com/cecieee/cecieee-frontend/pull/10) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+3. 🎉 Merged PR [#12](https://github.com/Dexters-Hub/Python-Projects/pull/12) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
+4. 🎉 Merged PR [#11](https://github.com/Dexters-Hub/Python-Projects/pull/11) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
 <!--END_SECTION:activity-->
