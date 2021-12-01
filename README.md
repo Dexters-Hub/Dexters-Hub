@@ -200,8 +200,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/cecieee/cecieee-frontend/pull/13) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
-2. 💪 Opened PR [#13](https://github.com/cecieee/cecieee-frontend/pull/13) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
-3. 🎉 Merged PR [#10](https://github.com/cecieee/cecieee-frontend/pull/10) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
-4. 🎉 Merged PR [#12](https://github.com/Dexters-Hub/Python-Projects/pull/12) in [Dexters-Hub/Python-Projects](https://github.com/Dexters-Hub/Python-Projects)
+1. ❗️ Closed issue [#71](https://github.com/TinkerHub-CEC/Shelf/issues/71) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+2. 🗣 Commented on [#71](https://github.com/TinkerHub-CEC/Shelf/issues/71) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+3. 🎉 Merged PR [#13](https://github.com/cecieee/cecieee-frontend/pull/13) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+4. 💪 Opened PR [#13](https://github.com/cecieee/cecieee-frontend/pull/13) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
 <!--END_SECTION:activity-->
