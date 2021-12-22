@@ -197,8 +197,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/Foces-core/job-list/pull/2) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
-2. 🎉 Merged PR [#1](https://github.com/Foces-core/job-list/pull/1) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
-3. 🎉 Merged PR [#78](https://github.com/TinkerHub-CEC/Shelf/pull/78) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-4. 💪 Opened PR [#78](https://github.com/TinkerHub-CEC/Shelf/pull/78) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+1. ❗️ Opened issue [#7](https://github.com/Foces-core/job-list/issues/7) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
+2. ❗️ Opened issue [#6](https://github.com/Foces-core/job-list/issues/6) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
+3. ❗️ Opened issue [#5](https://github.com/Foces-core/job-list/issues/5) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
+4. ❗️ Opened issue [#4](https://github.com/Foces-core/job-list/issues/4) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
 <!--END_SECTION:activity-->
