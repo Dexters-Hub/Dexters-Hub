@@ -200,8 +200,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#11](https://github.com/Foces-core/job-list/issues/11) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
-2. ❗️ Opened issue [#10](https://github.com/Foces-core/job-list/issues/10) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
-3. ❗️ Closed issue [#3](https://github.com/Foces-core/job-list/issues/3) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
-4. 🎉 Merged PR [#9](https://github.com/Foces-core/job-list/pull/9) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
+1. ❗️ Closed issue [#5](https://github.com/Foces-core/job-list/issues/5) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
+2. ❗️ Closed issue [#11](https://github.com/Foces-core/job-list/issues/11) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
+3. 🎉 Merged PR [#13](https://github.com/Foces-core/job-list/pull/13) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
+4. 🎉 Merged PR [#12](https://github.com/Foces-core/job-list/pull/12) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
 <!--END_SECTION:activity-->
