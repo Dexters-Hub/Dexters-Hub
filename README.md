@@ -200,8 +200,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/cecieee/cecieee-frontend/pull/14) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
-2. ❗️ Closed issue [#5](https://github.com/Foces-core/job-list/issues/5) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
-3. ❗️ Closed issue [#11](https://github.com/Foces-core/job-list/issues/11) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
-4. 🎉 Merged PR [#13](https://github.com/Foces-core/job-list/pull/13) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
+1. 💪 Opened PR [#15](https://github.com/cecieee/cecieee-frontend/pull/15) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+2. 🎉 Merged PR [#14](https://github.com/cecieee/cecieee-frontend/pull/14) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+3. ❗️ Closed issue [#5](https://github.com/Foces-core/job-list/issues/5) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
+4. ❗️ Closed issue [#11](https://github.com/Foces-core/job-list/issues/11) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
 <!--END_SECTION:activity-->
