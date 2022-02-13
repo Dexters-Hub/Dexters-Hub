@@ -200,8 +200,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#18](https://github.com/cecieee/cecieee-frontend/pull/18) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
-2. 💪 Opened PR [#18](https://github.com/cecieee/cecieee-frontend/pull/18) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
-3. 🎉 Merged PR [#14](https://github.com/Foces-core/job-list/pull/14) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
-4. 🎉 Merged PR [#17](https://github.com/cecieee/cecieee-frontend/pull/17) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+1. 🎉 Merged PR [#79](https://github.com/TinkerHub-CEC/Shelf/pull/79) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+2. 💪 Opened PR [#79](https://github.com/TinkerHub-CEC/Shelf/pull/79) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+3. 🎉 Merged PR [#18](https://github.com/cecieee/cecieee-frontend/pull/18) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
+4. 💪 Opened PR [#18](https://github.com/cecieee/cecieee-frontend/pull/18) in [cecieee/cecieee-frontend](https://github.com/cecieee/cecieee-frontend)
 <!--END_SECTION:activity-->
