@@ -147,6 +147,36 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [Day 38📌 of 100 Days of code
+
+- Solved 2 questions on String in Java at @LeetCode
+
+#100DaysOfCode #DSAwithKunal #leetcode  #Java #programming](https://nitter.net/_alwin_john/status/1503055395254079490#m)
+- [Here is what we &lpar;me &amp; Annie&rpar; have built as a part of the Co-Coder program conducted by @TinkerHub 
+
+Blinkin&#39; Morse - Built using @FlutterDev 
+
+What we have learned:
+
+- Animations
+- Using Existing packages &lpar;morse, torch_light&rpar;
+
+#flutter #development #uiux #code #PeerToPeer](https://nitter.net/_alwin_john/status/1502884422303256576#m)
+- [Day 37📌 of 100 Days of code
+
+- Solved 4 questions on String + DP in Java at @LeetCode
+
+#100DaysOfCode #DSAwithKunal #leetcode  #Java #programming](https://nitter.net/_alwin_john/status/1502695860949635074#m)
+- [Day 36📌 of 100 Days of code
+
+- Solved 3 questions on String in Java at @LeetCode
+
+#100DaysOfCode #DSAwithKunal #leetcode  #Java #programming](https://nitter.net/_alwin_john/status/1502334881204178944#m)
+- [Day 35📌 of 100 Days of code
+
+- Solved 6 questions on String + Array in Java at @LeetCode
+
+#100DaysOfCode #DSAwithKunal #leetcode  #Java #programming](https://nitter.net/_alwin_john/status/1501973413543366662#m)
 <!-- TWITTER:END -->
 
 ---
