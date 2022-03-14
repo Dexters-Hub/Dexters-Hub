@@ -144,6 +144,16 @@
 
 ---
 
+### 📱 Latest Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+
+---
+
+
+---
+
 ### 📺 Latest YouTube Videos
 
 <div align="center">
