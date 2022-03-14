@@ -142,14 +142,11 @@
 <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Dexters-Hub&row=1&theme=discord"></a>
 </p>
 
----
+<!-- ---
 
-### 📱 Latest Tweets
+### 📱 Latest Tweets -->
 
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
 
----
 
 
 ---
