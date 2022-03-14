@@ -13,7 +13,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "TWITTER"
-          # feed_list: "https://nitter.net/_alwin_john/rss"
+          feed_list: "https://nitter.net/_alwin_john/rss"
           commit_message: "Updated with the latest tweets"
           committer_email: "alwinjohn231@gmail.com"
           
