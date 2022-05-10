@@ -207,8 +207,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/cechengannur/Networking-Lab-S6/pull/1) in [cechengannur/Networking-Lab-S6](https://github.com/cechengannur/Networking-Lab-S6)
-2. 💪 Opened PR [#1](https://github.com/cechengannur/Networking-Lab-S6/pull/1) in [cechengannur/Networking-Lab-S6](https://github.com/cechengannur/Networking-Lab-S6)
-3. 🎉 Merged PR [#79](https://github.com/TinkerHub-CEC/Shelf/pull/79) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
-4. 💪 Opened PR [#79](https://github.com/TinkerHub-CEC/Shelf/pull/79) in [TinkerHub-CEC/Shelf](https://github.com/TinkerHub-CEC/Shelf)
+1. ❗️ Closed issue [#10](https://github.com/Foces-core/job-list/issues/10) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
+2. ❗️ Closed issue [#6](https://github.com/Foces-core/job-list/issues/6) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
+3. 🎉 Merged PR [#1](https://github.com/cechengannur/Networking-Lab-S6/pull/1) in [cechengannur/Networking-Lab-S6](https://github.com/cechengannur/Networking-Lab-S6)
+4. 💪 Opened PR [#1](https://github.com/cechengannur/Networking-Lab-S6/pull/1) in [cechengannur/Networking-Lab-S6](https://github.com/cechengannur/Networking-Lab-S6)
 <!--END_SECTION:activity-->
