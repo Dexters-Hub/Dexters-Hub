@@ -207,8 +207,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#15](https://github.com/Foces-core/job-list/pull/15) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
-2. ❗️ Closed issue [#10](https://github.com/Foces-core/job-list/issues/10) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
-3. ❗️ Closed issue [#6](https://github.com/Foces-core/job-list/issues/6) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
-4. 🎉 Merged PR [#1](https://github.com/cechengannur/Networking-Lab-S6/pull/1) in [cechengannur/Networking-Lab-S6](https://github.com/cechengannur/Networking-Lab-S6)
+1. 🗣 Commented on [#451](https://github.com/freeCodeCamp/mobile/issues/451) in [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile)
+2. 🎉 Merged PR [#15](https://github.com/Foces-core/job-list/pull/15) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
+3. ❗️ Closed issue [#10](https://github.com/Foces-core/job-list/issues/10) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
+4. ❗️ Closed issue [#6](https://github.com/Foces-core/job-list/issues/6) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
 <!--END_SECTION:activity-->
