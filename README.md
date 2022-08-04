@@ -208,7 +208,7 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#451](https://github.com/freeCodeCamp/mobile/issues/451) in [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile)
-2. 🎉 Merged PR [#15](https://github.com/Foces-core/job-list/pull/15) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
-3. ❗️ Closed issue [#10](https://github.com/Foces-core/job-list/issues/10) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
-4. ❗️ Closed issue [#6](https://github.com/Foces-core/job-list/issues/6) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
+2. 💪 Opened PR [#509](https://github.com/freeCodeCamp/mobile/pull/509) in [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile)
+3. 🗣 Commented on [#451](https://github.com/freeCodeCamp/mobile/issues/451) in [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile)
+4. 🎉 Merged PR [#15](https://github.com/Foces-core/job-list/pull/15) in [Foces-core/job-list](https://github.com/Foces-core/job-list)
 <!--END_SECTION:activity-->
