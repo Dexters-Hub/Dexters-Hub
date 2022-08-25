@@ -207,8 +207,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#18](https://github.com/gce-india/gce-india.github.io/pull/18) in [gce-india/gce-india.github.io](https://github.com/gce-india/gce-india.github.io)
-2. 🗣 Commented on [#451](https://github.com/freeCodeCamp/mobile/issues/451) in [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile)
-3. 💪 Opened PR [#509](https://github.com/freeCodeCamp/mobile/pull/509) in [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile)
-4. 🗣 Commented on [#451](https://github.com/freeCodeCamp/mobile/issues/451) in [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile)
+1. 🎉 Merged PR [#18](https://github.com/gce-india/gce-india.github.io/pull/18) in [gce-india/gce-india.github.io](https://github.com/gce-india/gce-india.github.io)
+2. 💪 Opened PR [#18](https://github.com/gce-india/gce-india.github.io/pull/18) in [gce-india/gce-india.github.io](https://github.com/gce-india/gce-india.github.io)
+3. 🗣 Commented on [#451](https://github.com/freeCodeCamp/mobile/issues/451) in [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile)
+4. 💪 Opened PR [#509](https://github.com/freeCodeCamp/mobile/pull/509) in [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile)
 <!--END_SECTION:activity-->
