@@ -207,8 +207,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1](https://github.com/Dexters-Hub/open-sauced-goals/issues/1) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
-2. ❗️ Opened issue [#1](https://github.com/Dexters-Hub/open-sauced-goals/issues/1) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
-3. 🎉 Merged PR [#18](https://github.com/gce-india/gce-india.github.io/pull/18) in [gce-india/gce-india.github.io](https://github.com/gce-india/gce-india.github.io)
-4. 💪 Opened PR [#18](https://github.com/gce-india/gce-india.github.io/pull/18) in [gce-india/gce-india.github.io](https://github.com/gce-india/gce-india.github.io)
+1. ❗️ Opened issue [#5](https://github.com/Dexters-Hub/open-sauced-goals/issues/5) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
+2. ❗️ Opened issue [#4](https://github.com/Dexters-Hub/open-sauced-goals/issues/4) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
+3. ❗️ Opened issue [#3](https://github.com/Dexters-Hub/open-sauced-goals/issues/3) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
+4. ❗️ Opened issue [#2](https://github.com/Dexters-Hub/open-sauced-goals/issues/2) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
 <!--END_SECTION:activity-->
