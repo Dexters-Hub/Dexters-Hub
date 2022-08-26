@@ -207,8 +207,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#18](https://github.com/gce-india/gce-india.github.io/pull/18) in [gce-india/gce-india.github.io](https://github.com/gce-india/gce-india.github.io)
-2. 💪 Opened PR [#18](https://github.com/gce-india/gce-india.github.io/pull/18) in [gce-india/gce-india.github.io](https://github.com/gce-india/gce-india.github.io)
-3. 🗣 Commented on [#451](https://github.com/freeCodeCamp/mobile/issues/451) in [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile)
-4. 💪 Opened PR [#509](https://github.com/freeCodeCamp/mobile/pull/509) in [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile)
+1. ❗️ Closed issue [#1](https://github.com/Dexters-Hub/open-sauced-goals/issues/1) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
+2. ❗️ Opened issue [#1](https://github.com/Dexters-Hub/open-sauced-goals/issues/1) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
+3. 🎉 Merged PR [#18](https://github.com/gce-india/gce-india.github.io/pull/18) in [gce-india/gce-india.github.io](https://github.com/gce-india/gce-india.github.io)
+4. 💪 Opened PR [#18](https://github.com/gce-india/gce-india.github.io/pull/18) in [gce-india/gce-india.github.io](https://github.com/gce-india/gce-india.github.io)
 <!--END_SECTION:activity-->
