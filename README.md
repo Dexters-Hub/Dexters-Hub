@@ -207,8 +207,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#5162](https://github.com/EddieHubCommunity/support/issues/5162) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Opened issue [#5](https://github.com/Dexters-Hub/open-sauced-goals/issues/5) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
-3. ❗️ Opened issue [#4](https://github.com/Dexters-Hub/open-sauced-goals/issues/4) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
-4. ❗️ Opened issue [#3](https://github.com/Dexters-Hub/open-sauced-goals/issues/3) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
+1. ❗️ Opened issue [#6](https://github.com/Dexters-Hub/open-sauced-goals/issues/6) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
+2. ❗️ Opened issue [#5162](https://github.com/EddieHubCommunity/support/issues/5162) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗️ Opened issue [#5](https://github.com/Dexters-Hub/open-sauced-goals/issues/5) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
+4. ❗️ Opened issue [#4](https://github.com/Dexters-Hub/open-sauced-goals/issues/4) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
 <!--END_SECTION:activity-->
