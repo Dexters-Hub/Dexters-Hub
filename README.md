@@ -207,8 +207,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/1) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-2. ❗️ Opened issue [#6](https://github.com/Dexters-Hub/open-sauced-goals/issues/6) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
-3. ❗️ Opened issue [#5162](https://github.com/EddieHubCommunity/support/issues/5162) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Opened issue [#5](https://github.com/Dexters-Hub/open-sauced-goals/issues/5) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
+1. 🗣 Commented on [#1](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/1) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+2. ❗️ Opened issue [#1](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/1) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+3. ❗️ Opened issue [#6](https://github.com/Dexters-Hub/open-sauced-goals/issues/6) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
+4. ❗️ Opened issue [#5162](https://github.com/EddieHubCommunity/support/issues/5162) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
