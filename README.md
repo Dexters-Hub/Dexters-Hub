@@ -207,8 +207,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/2) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-2. 🗣 Commented on [#1](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/1) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-3. ❗️ Opened issue [#1](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/1) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-4. ❗️ Opened issue [#6](https://github.com/Dexters-Hub/open-sauced-goals/issues/6) in [Dexters-Hub/open-sauced-goals](https://github.com/Dexters-Hub/open-sauced-goals)
+1. 🎉 Merged PR [#4](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/4) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+2. 💪 Opened PR [#4](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/4) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+3. 🎉 Merged PR [#3](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/3) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+4. 💪 Opened PR [#3](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/3) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
 <!--END_SECTION:activity-->
