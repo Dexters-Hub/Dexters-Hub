@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#11](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/11) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-2. ❗️ Opened issue [#10](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/10) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-3. ❗️ Opened issue [#9](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/9) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-4. ❗️ Opened issue [#8](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/8) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+1. ❗️ Opened issue [#13](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/13) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+2. ❗️ Opened issue [#12](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/12) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+3. 🗣 Commented on [#6](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/6) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+4. ❗️ Opened issue [#11](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/11) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
 <!--END_SECTION:activity-->
