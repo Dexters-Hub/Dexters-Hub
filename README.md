@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#8](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/8) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-2. 🎉 Merged PR [#17](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/17) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-3. 🎉 Merged PR [#16](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/16) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-4. 🎉 Merged PR [#15](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/15) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+1. ❗️ Closed issue [#12](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/12) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+2. ❗️ Closed issue [#11](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/11) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+3. ❗️ Closed issue [#13](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/13) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+4. 🎉 Merged PR [#26](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/26) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
 <!--END_SECTION:activity-->
