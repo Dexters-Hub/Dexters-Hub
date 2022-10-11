@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#35](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/35) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-2. 🎉 Merged PR [#34](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/34) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-3. ❗️ Closed issue [#9](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/9) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-4. 🎉 Merged PR [#33](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/33) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+1. ❗️ Opened issue [#133](https://github.com/WalkingPal/walking-pal-web/issues/133) in [WalkingPal/walking-pal-web](https://github.com/WalkingPal/walking-pal-web)
+2. 🎉 Merged PR [#35](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/35) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+3. 🎉 Merged PR [#34](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/34) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+4. ❗️ Closed issue [#9](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/9) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
 <!--END_SECTION:activity-->
