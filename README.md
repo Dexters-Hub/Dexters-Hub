@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#135](https://github.com/WalkingPal/walking-pal-web/issues/135) in [WalkingPal/walking-pal-web](https://github.com/WalkingPal/walking-pal-web)
+1. 💪 Opened PR [#147](https://github.com/WalkingPal/walking-pal-web/pull/147) in [WalkingPal/walking-pal-web](https://github.com/WalkingPal/walking-pal-web)
 2. 🗣 Commented on [#135](https://github.com/WalkingPal/walking-pal-web/issues/135) in [WalkingPal/walking-pal-web](https://github.com/WalkingPal/walking-pal-web)
-3. 💪 Opened PR [#32](https://github.com/lemokami/startupsofkerala/pull/32) in [lemokami/startupsofkerala](https://github.com/lemokami/startupsofkerala)
-4. 🗣 Commented on [#135](https://github.com/WalkingPal/walking-pal-web/issues/135) in [WalkingPal/walking-pal-web](https://github.com/WalkingPal/walking-pal-web)
+3. 🗣 Commented on [#135](https://github.com/WalkingPal/walking-pal-web/issues/135) in [WalkingPal/walking-pal-web](https://github.com/WalkingPal/walking-pal-web)
+4. 💪 Opened PR [#32](https://github.com/lemokami/startupsofkerala/pull/32) in [lemokami/startupsofkerala](https://github.com/lemokami/startupsofkerala)
 <!--END_SECTION:activity-->
