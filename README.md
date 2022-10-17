@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#168](https://github.com/IBM/carbon-ui-builder/issues/168) in [IBM/carbon-ui-builder](https://github.com/IBM/carbon-ui-builder)
-2. 💪 Opened PR [#147](https://github.com/WalkingPal/walking-pal-web/pull/147) in [WalkingPal/walking-pal-web](https://github.com/WalkingPal/walking-pal-web)
-3. 🗣 Commented on [#135](https://github.com/WalkingPal/walking-pal-web/issues/135) in [WalkingPal/walking-pal-web](https://github.com/WalkingPal/walking-pal-web)
-4. 🗣 Commented on [#135](https://github.com/WalkingPal/walking-pal-web/issues/135) in [WalkingPal/walking-pal-web](https://github.com/WalkingPal/walking-pal-web)
+1. ❗️ Closed issue [#10](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/10) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+2. 🎉 Merged PR [#36](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/36) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+3. ❗️ Opened issue [#168](https://github.com/IBM/carbon-ui-builder/issues/168) in [IBM/carbon-ui-builder](https://github.com/IBM/carbon-ui-builder)
+4. 💪 Opened PR [#147](https://github.com/WalkingPal/walking-pal-web/pull/147) in [WalkingPal/walking-pal-web](https://github.com/WalkingPal/walking-pal-web)
 <!--END_SECTION:activity-->
