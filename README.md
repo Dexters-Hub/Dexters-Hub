@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#7](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/7) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-2. 🎉 Merged PR [#37](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/37) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-3. 💪 Opened PR [#169](https://github.com/IBM/carbon-ui-builder/pull/169) in [IBM/carbon-ui-builder](https://github.com/IBM/carbon-ui-builder)
-4. ❗️ Closed issue [#10](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/10) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+1. 🗣 Commented on [#169](https://github.com/IBM/carbon-ui-builder/issues/169) in [IBM/carbon-ui-builder](https://github.com/IBM/carbon-ui-builder)
+2. ❗️ Closed issue [#7](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/issues/7) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+3. 🎉 Merged PR [#37](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/37) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+4. 💪 Opened PR [#169](https://github.com/IBM/carbon-ui-builder/pull/169) in [IBM/carbon-ui-builder](https://github.com/IBM/carbon-ui-builder)
 <!--END_SECTION:activity-->
