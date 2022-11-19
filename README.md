@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7](https://github.com/shriya-tiwari/Reciplay_website/issues/7) in [shriya-tiwari/Reciplay_website](https://github.com/shriya-tiwari/Reciplay_website)
-2. 💪 Opened PR [#7](https://github.com/shriya-tiwari/Reciplay_website/pull/7) in [shriya-tiwari/Reciplay_website](https://github.com/shriya-tiwari/Reciplay_website)
-3. 🗣 Commented on [#5](https://github.com/shriya-tiwari/Reciplay_website/issues/5) in [shriya-tiwari/Reciplay_website](https://github.com/shriya-tiwari/Reciplay_website)
-4. 🗣 Commented on [#169](https://github.com/IBM/carbon-ui-builder/issues/169) in [IBM/carbon-ui-builder](https://github.com/IBM/carbon-ui-builder)
+1. ❗️ Opened issue [#4](https://github.com/GHActUG/home/issues/4) in [GHActUG/home](https://github.com/GHActUG/home)
+2. 🗣 Commented on [#7](https://github.com/shriya-tiwari/Reciplay_website/issues/7) in [shriya-tiwari/Reciplay_website](https://github.com/shriya-tiwari/Reciplay_website)
+3. 💪 Opened PR [#7](https://github.com/shriya-tiwari/Reciplay_website/pull/7) in [shriya-tiwari/Reciplay_website](https://github.com/shriya-tiwari/Reciplay_website)
+4. 🗣 Commented on [#5](https://github.com/shriya-tiwari/Reciplay_website/issues/5) in [shriya-tiwari/Reciplay_website](https://github.com/shriya-tiwari/Reciplay_website)
 <!--END_SECTION:activity-->
