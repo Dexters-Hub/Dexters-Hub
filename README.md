@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#43](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/43) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-2. 🎉 Merged PR [#42](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/42) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-3. 🎉 Merged PR [#39](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/39) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-4. ❗️ Opened issue [#4](https://github.com/GHActUG/home/issues/4) in [GHActUG/home](https://github.com/GHActUG/home)
+1. 🎉 Merged PR [#44](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/44) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+2. 🎉 Merged PR [#43](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/43) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+3. 🎉 Merged PR [#42](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/42) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+4. 🎉 Merged PR [#39](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/39) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
 <!--END_SECTION:activity-->
