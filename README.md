@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/mahendra-shinde/project-001/pull/3) in [mahendra-shinde/project-001](https://github.com/mahendra-shinde/project-001)
-2. 🎉 Merged PR [#44](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/44) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-3. 🎉 Merged PR [#43](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/43) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-4. 🎉 Merged PR [#42](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/42) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+1. 🎉 Merged PR [#50](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/50) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+2. 💪 Opened PR [#3](https://github.com/mahendra-shinde/project-001/pull/3) in [mahendra-shinde/project-001](https://github.com/mahendra-shinde/project-001)
+3. 🎉 Merged PR [#44](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/44) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
+4. 🎉 Merged PR [#43](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/43) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
 <!--END_SECTION:activity-->
