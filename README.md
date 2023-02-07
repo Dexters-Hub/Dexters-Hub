@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#7](https://github.com/Linkley/linkley-frontend/issues/7) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
-2. 🗣 Commented on [#7](https://github.com/Linkley/linkley-frontend/issues/7) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
-3. 🎉 Merged PR [#50](https://github.com/TinkerHub-CEC/tinkerhub-cec-website/pull/50) in [TinkerHub-CEC/tinkerhub-cec-website](https://github.com/TinkerHub-CEC/tinkerhub-cec-website)
-4. 💪 Opened PR [#3](https://github.com/mahendra-shinde/project-001/pull/3) in [mahendra-shinde/project-001](https://github.com/mahendra-shinde/project-001)
+1. ❗️ Opened issue [#10](https://github.com/Linkley/linkley-frontend/issues/10) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
+2. ❗️ Opened issue [#9](https://github.com/Linkley/linkley-frontend/issues/9) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
+3. ❗️ Closed issue [#7](https://github.com/Linkley/linkley-frontend/issues/7) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
+4. 🗣 Commented on [#7](https://github.com/Linkley/linkley-frontend/issues/7) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
 <!--END_SECTION:activity-->
