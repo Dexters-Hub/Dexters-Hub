@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#10](https://github.com/Linkley/linkley-frontend/issues/10) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
-2. ❗️ Opened issue [#9](https://github.com/Linkley/linkley-frontend/issues/9) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
-3. ❗️ Closed issue [#7](https://github.com/Linkley/linkley-frontend/issues/7) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
-4. 🗣 Commented on [#7](https://github.com/Linkley/linkley-frontend/issues/7) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
+1. ❗️ Closed issue [#77](https://github.com/cechengannur/techx-reg-website/issues/77) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
+2. ❗️ Closed issue [#81](https://github.com/cechengannur/techx-reg-website/issues/81) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
+3. ❗️ Closed issue [#87](https://github.com/cechengannur/techx-reg-website/issues/87) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
+4. ❗️ Closed issue [#80](https://github.com/cechengannur/techx-reg-website/issues/80) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
 <!--END_SECTION:activity-->
