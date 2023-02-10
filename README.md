@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#131](https://github.com/cechengannur/techx-reg-website/pull/131) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
-2. 💪 Opened PR [#131](https://github.com/cechengannur/techx-reg-website/pull/131) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
-3. 🎉 Merged PR [#130](https://github.com/cechengannur/techx-reg-website/pull/130) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
-4. 💪 Opened PR [#130](https://github.com/cechengannur/techx-reg-website/pull/130) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
+1. 🎉 Merged PR [#132](https://github.com/cechengannur/techx-reg-website/pull/132) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
+2. 💪 Opened PR [#132](https://github.com/cechengannur/techx-reg-website/pull/132) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
+3. ❌ Closed PR [#131](https://github.com/cechengannur/techx-reg-website/pull/131) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
+4. 💪 Opened PR [#131](https://github.com/cechengannur/techx-reg-website/pull/131) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
 <!--END_SECTION:activity-->
