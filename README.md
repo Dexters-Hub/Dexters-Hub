@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#11](https://github.com/Linkley/linkley-frontend/pull/11) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
-2. 🎉 Merged PR [#132](https://github.com/cechengannur/techx-reg-website/pull/132) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
-3. 💪 Opened PR [#132](https://github.com/cechengannur/techx-reg-website/pull/132) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
-4. ❌ Closed PR [#131](https://github.com/cechengannur/techx-reg-website/pull/131) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
+1. 🎉 Merged PR [#11](https://github.com/Linkley/linkley-frontend/pull/11) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
+2. 💪 Opened PR [#11](https://github.com/Linkley/linkley-frontend/pull/11) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
+3. 🎉 Merged PR [#132](https://github.com/cechengannur/techx-reg-website/pull/132) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
+4. 💪 Opened PR [#132](https://github.com/cechengannur/techx-reg-website/pull/132) in [cechengannur/techx-reg-website](https://github.com/cechengannur/techx-reg-website)
 <!--END_SECTION:activity-->
