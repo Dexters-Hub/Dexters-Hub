@@ -102,7 +102,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fj73bxmP03g"><img width="140px" src="https://i.ytimg.com/vi/fj73bxmP03g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fj73bxmP03g">നിങ്ങൾ ഒരു വിദ്യാർത്ഥിയാണെങ്കിൽ ഇതിനെക്കുറിച്ച് അറിയു - Microsoft Learn Student Ambassadors Program</a><br/>Feb 1, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=fj73bxmP03g">നിങ്ങൾ ഒരു വിദ്യാർത്ഥിയാണെങ്കിൽ ഇതിനെക്കുറിച്ച് അറിയു - Microsoft Learn Student Ambassadors Program</a><br/>Feb 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qOckacF3WJo"><img width="140px" src="https://i.ytimg.com/vi/qOckacF3WJo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qOckacF3WJo">[Selected] GitHub Campus Experts Application Video | Feb 2022 | Kerala</a><br/>Aug 6, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EXDn6uWs254"><img width="140px" src="https://i.ytimg.com/vi/EXDn6uWs254/mqdefault.jpg"></a></td>
