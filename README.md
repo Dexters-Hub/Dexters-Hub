@@ -8,10 +8,10 @@
 
 💻 I'm a Frontend Engineer<br>
 🎨 I'm a self-taught UI designer<br>
-📱 I make apps using flutter<br>
+📱 I make apps using Flutter <br>
 🚩 I'm a GitHub Campus Expert<br>
-🎓 I'm a Computer Science student (graduating in October 2023)<br>
-🌐 You can see some of my projects on [my portfolio](https://www.alwinjohn.me/)<br>
+🎓 I'm an Individual who completed my B.Tech in Computer Science Engr.<br>
+🌐 You can see some of my projects on [my portfolio](https://www.alwinjohn.com/)<br>
 📺 I make contents on [YouTube](https://www.youtube.com/c/AlwinJohn)<br>
 
 </div>
