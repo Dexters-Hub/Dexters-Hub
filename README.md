@@ -101,7 +101,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fj73bxmP03g"><img width="140px" src="https://i.ytimg.com/vi/fj73bxmP03g/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tMiRSBaToLg"><img width="140px" src="https://i.ytimg.com/vi/tMiRSBaToLg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tMiRSBaToLg">How to prepare for a Software Job? - My Frontend Engineering Prep</a><br/>Sep 8, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fj73bxmP03g"><img width="140px" src="https://i.ytimg.com/vi/fj73bxmP03g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fj73bxmP03g">നിങ്ങൾ ഒരു വിദ്യാർത്ഥിയാണെങ്കിൽ ഇതിനെക്കുറിച്ച് അറിയു - Microsoft Learn Student Ambassadors Program</a><br/>Feb 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qOckacF3WJo"><img width="140px" src="https://i.ytimg.com/vi/qOckacF3WJo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qOckacF3WJo">[Selected] GitHub Campus Experts Application Video | Feb 2022 | Kerala</a><br/>Aug 6, 2022</td></tr></table>
@@ -109,8 +111,6 @@
 <td><a href="https://www.youtube.com/watch?v=EXDn6uWs254">&lpar;+1 Computer Science&rpar; Discipline of Computing #7 - Generations of Computer Pt.3 | Kerala Syllabus</a><br/>Nov 24, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-HwTYq1BL50"><img width="140px" src="https://i.ytimg.com/vi/-HwTYq1BL50/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-HwTYq1BL50">&lpar;+1 Computer Science&rpar; Discipline of Computing #6 - Generations of Computer Pt.2 | Kerala Syllabus</a><br/>Nov 14, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GFsyBBRKOqE"><img width="140px" src="https://i.ytimg.com/vi/GFsyBBRKOqE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GFsyBBRKOqE">&lpar;+1 Computer Science&rpar; Discipline of Computing #5 - Generations of Computer  Pt.1 | Malayalam</a><br/>Nov 11, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
