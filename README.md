@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#13](https://github.com/Linkley/linkley-frontend/issues/13) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
-2. ❗ Opened issue [#12](https://github.com/Linkley/linkley-frontend/issues/12) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
+1. 🎉 Merged PR [#2](https://github.com/Dexters-Hub/vue-study-jam/pull/2) in [Dexters-Hub/vue-study-jam](https://github.com/Dexters-Hub/vue-study-jam)
+2. 🎉 Merged PR [#1](https://github.com/Dexters-Hub/vue-study-jam/pull/1) in [Dexters-Hub/vue-study-jam](https://github.com/Dexters-Hub/vue-study-jam)
 3. 🎉 Merged PR [#11](https://github.com/Linkley/linkley-frontend/pull/11) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
 4. 💪 Opened PR [#11](https://github.com/Linkley/linkley-frontend/pull/11) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
 <!--END_SECTION:activity-->
