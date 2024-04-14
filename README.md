@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/Dexters-Hub/vue-study-jam/pull/2) in [Dexters-Hub/vue-study-jam](https://github.com/Dexters-Hub/vue-study-jam)
-2. 🎉 Merged PR [#1](https://github.com/Dexters-Hub/vue-study-jam/pull/1) in [Dexters-Hub/vue-study-jam](https://github.com/Dexters-Hub/vue-study-jam)
-3. 🎉 Merged PR [#11](https://github.com/Linkley/linkley-frontend/pull/11) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
-4. 💪 Opened PR [#11](https://github.com/Linkley/linkley-frontend/pull/11) in [Linkley/linkley-frontend](https://github.com/Linkley/linkley-frontend)
+1. ❌ Closed PR [#7](https://github.com/Dexters-Hub/vue-study-jam/pull/7) in [Dexters-Hub/vue-study-jam](https://github.com/Dexters-Hub/vue-study-jam)
+2. 🎉 Merged PR [#10](https://github.com/Dexters-Hub/vue-study-jam/pull/10) in [Dexters-Hub/vue-study-jam](https://github.com/Dexters-Hub/vue-study-jam)
+3. 💪 Opened PR [#10](https://github.com/Dexters-Hub/vue-study-jam/pull/10) in [Dexters-Hub/vue-study-jam](https://github.com/Dexters-Hub/vue-study-jam)
+4. 🎉 Merged PR [#9](https://github.com/Dexters-Hub/vue-study-jam/pull/9) in [Dexters-Hub/vue-study-jam](https://github.com/Dexters-Hub/vue-study-jam)
 <!--END_SECTION:activity-->
