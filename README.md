@@ -101,10 +101,10 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ku0JiQmJJ7I"><img width="140px" src="https://i.ytimg.com/vi/ku0JiQmJJ7I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ku0JiQmJJ7I">Kannodu Kannayidam | Fingerstyle Guitar Cover | Alwin John #trendingsong</a><br/>May 30, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=--WvAIf09ik"><img width="140px" src="https://i.ytimg.com/vi/--WvAIf09ik/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=--WvAIf09ik">&lpar;Maragatha Naanayam&rpar; Nee Kavithagala - Fingerstyle Guitar Cover | Alwin John</a><br/>Apr 21, 2025</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/ku0JiQmJJ7I"><img width="140px" src="https://i.ytimg.com/vi/ku0JiQmJJ7I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/ku0JiQmJJ7I">Kannodu Kannayidam | Fingerstyle Guitar Cover | Alwin John #trendingsong</a><br/>May 30, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/--WvAIf09ik"><img width="140px" src="https://i.ytimg.com/vi/--WvAIf09ik/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/--WvAIf09ik">&lpar;Maragatha Naanayam&rpar; Nee Kavithagala - Fingerstyle Guitar Cover | Alwin John</a><br/>Apr 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/GRUfOudjNTc"><img width="140px" src="https://i.ytimg.com/vi/GRUfOudjNTc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/GRUfOudjNTc">Mel Mel from Ustad Hotel - Fingerstyle Guitar Cover</a><br/>Nov 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Y3p3_1l4ChY"><img width="140px" src="https://i.ytimg.com/vi/Y3p3_1l4ChY/mqdefault.jpg"></a></td>
