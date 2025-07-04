@@ -1,6 +1,6 @@
 <p align="center"><a href="#"><img width="75%" height="auto" src="https://media.giphy.com/media/84OBoA0Lf4eXtZFmOh/giphy.gif"/></a></p>
 
-<h1 align="center">Hey there, I'm <a href="https://www.alwinjohn.tech/">Alwin John</a> - aka Dexters-Hub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+<h1 align="center">Hey there, I'm <a href="https://www.alwinjohn.me/">Alwin John</a> - aka Dexters-Hub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
 
 <h2 align="center"> 📖 About me</h2>
