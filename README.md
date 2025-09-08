@@ -149,8 +149,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#7](https://github.com/Dexters-Hub/vue-study-jam/pull/7) in [Dexters-Hub/vue-study-jam](https://github.com/Dexters-Hub/vue-study-jam)
-2. 🎉 Merged PR [#10](https://github.com/Dexters-Hub/vue-study-jam/pull/10) in [Dexters-Hub/vue-study-jam](https://github.com/Dexters-Hub/vue-study-jam)
+1. 💪 Opened PR [#91](undefined) in [atlanhq/i18n](https://github.com/atlanhq/i18n)
+2. ❌ Assigned PR [#91](undefined) in [atlanhq/i18n](https://github.com/atlanhq/i18n)
 3. 💪 Opened PR [#10](https://github.com/Dexters-Hub/vue-study-jam/pull/10) in [Dexters-Hub/vue-study-jam](https://github.com/Dexters-Hub/vue-study-jam)
 4. 🎉 Merged PR [#9](https://github.com/Dexters-Hub/vue-study-jam/pull/9) in [Dexters-Hub/vue-study-jam](https://github.com/Dexters-Hub/vue-study-jam)
 <!--END_SECTION:activity-->
