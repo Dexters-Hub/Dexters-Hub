@@ -118,10 +118,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Touch Typing](https://dev.to/dextershub/touch-typing-3bm4)
-- [What is Ethereum?](https://medium.com/@alwinjohn/what-is-ethereum-c34fd27310db?source=rss-26796c72c7e6------2)
-- [Key Concepts of Blockchain](https://medium.com/@alwinjohn/key-concepts-of-blockchain-a9cdc50f9557?source=rss-26796c72c7e6------2)
-- [Concept of Machine Learning](https://medium.com/@alwinjohn/concept-of-machine-learning-92a3ef087253?source=rss-26796c72c7e6------2)
+- [Understanding the Temporal API — A Better Way to Handle Time in JavaScript](https://medium.com/@alwinjohn/understanding-the-temporal-api-a-better-way-to-handle-time-in-javascript-8551522f7b9c?source=rss-d0cb8769e741------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
