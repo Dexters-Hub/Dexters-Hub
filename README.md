@@ -101,7 +101,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Xk6zxJEcD0w"><img width="140px" src="https://i.ytimg.com/vi/Xk6zxJEcD0w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/pNu4e4f6e1U"><img width="140px" src="https://i.ytimg.com/vi/pNu4e4f6e1U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/pNu4e4f6e1U">Uyire | Minnal Murali | Fingerstyle Guitar Cover | Alwin John</a><br/>Mar 21, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Xk6zxJEcD0w"><img width="140px" src="https://i.ytimg.com/vi/Xk6zxJEcD0w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Xk6zxJEcD0w">Akale &lpar;From &quot;9 &lpar;Nine&rpar; Malayalam&quot;&rpar; | Fingerstyle Guitar Cover | Alwin John</a><br/>Mar 7, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/oHfBtRAWBlM"><img width="140px" src="https://i.ytimg.com/vi/oHfBtRAWBlM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/oHfBtRAWBlM">Onnamkilli Ponnankili &lpar;Kilichundan Mambazham&rpar; | Fingerstyle Guitar Cover | Alwin John</a><br/>Mar 6, 2026</td></tr></table>
@@ -109,8 +111,6 @@
 <td><a href="https://www.youtube.com/shorts/WlNfJ13Q4F8">I Think They Call This Love by Elliot James Reay | Fingerstyle Guitar Cover | Alwin John</a><br/>Mar 6, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/syKTD86iqe4"><img width="140px" src="https://i.ytimg.com/vi/syKTD86iqe4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/syKTD86iqe4">Cupid - Fingerstyle Guitar Cover | Alwin John</a><br/>Mar 6, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BMv9gYpvFgc"><img width="140px" src="https://i.ytimg.com/vi/BMv9gYpvFgc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BMv9gYpvFgc">Thaniye | Guitar Cover | Alwin John</a><br/>Mar 3, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
