@@ -146,8 +146,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1590](https://github.com/atlanhq/application-sdk/pull/1590) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
-2. 💪 Opened PR [#1590](https://github.com/atlanhq/application-sdk/pull/1590) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
-3. ❌ Closed PR [#1201](https://github.com/atlanhq/application-sdk/pull/1201) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
-4. 💪 Opened PR [#1201](https://github.com/atlanhq/application-sdk/pull/1201) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
+1. 🗣 Commented on [#1590](https://github.com/atlanhq/application-sdk/pull/1590#issuecomment-4334323346) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
+2. ❌ Closed PR [#1590](https://github.com/atlanhq/application-sdk/pull/1590) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
+3. 💪 Opened PR [#1590](https://github.com/atlanhq/application-sdk/pull/1590) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
+4. ❌ Closed PR [#1201](https://github.com/atlanhq/application-sdk/pull/1201) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
 <!--END_SECTION:activity-->
