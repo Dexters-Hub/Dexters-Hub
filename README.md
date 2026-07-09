@@ -28,7 +28,7 @@
 <br/>
 <div align="center">
   <a href="https://app.daily.dev/alwinjohn">
-    <img src="https://api.daily.dev/devcards/v2/iKGTIaVmt.png?type=default&r=p0y" width="356" alt="ALWIN JOHN's Dev Card"/>
+    <img src="./assets/daily-dev-card.png" width="356" alt="ALWIN JOHN's Dev Card"/>
   </a>
 </div>
 <br/>
