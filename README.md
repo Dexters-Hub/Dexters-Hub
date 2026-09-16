@@ -146,7 +146,7 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3061](https://github.com/atlanhq/application-sdk/pull/3061) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
+1. 💪 Opened PR [#3801](https://github.com/atlanhq/application-sdk/pull/3801) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
 2. ℹ️ Assigned PR [#3061](https://github.com/atlanhq/application-sdk/pull/3061) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
 3. 💪 Opened PR [#3061](https://github.com/atlanhq/application-sdk/pull/3061) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
 4. 💪 Opened PR [#1935](https://github.com/atlanhq/application-sdk/pull/1935) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
