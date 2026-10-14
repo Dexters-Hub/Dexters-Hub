@@ -146,8 +146,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4305](https://github.com/atlanhq/application-sdk/pull/4305) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
-2. 💪 Opened PR [#4305](https://github.com/atlanhq/application-sdk/pull/4305) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
-3. 🎉 Merged PR [#4222](https://github.com/atlanhq/application-sdk/pull/4222) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
-4. 💪 Opened PR [#4222](https://github.com/atlanhq/application-sdk/pull/4222) in [atlanhq/application-sdk](https://github.com/atlanhq/application-sdk)
+1. 🎉 Merged PR [#23](https://github.com/Dexters-Hub/kalkandam/pull/23) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
+2. 💪 Opened PR [#23](https://github.com/Dexters-Hub/kalkandam/pull/23) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
+3. 🎉 Merged PR [#22](https://github.com/Dexters-Hub/kalkandam/pull/22) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
+4. 💪 Opened PR [#22](https://github.com/Dexters-Hub/kalkandam/pull/22) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
 <!--END_SECTION:activity-->
