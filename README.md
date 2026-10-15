@@ -146,8 +146,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#34](https://github.com/Dexters-Hub/kalkandam/pull/34) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
-2. 💪 Opened PR [#34](https://github.com/Dexters-Hub/kalkandam/pull/34) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
-3. 💪 Opened PR [#33](https://github.com/Dexters-Hub/kalkandam/pull/33) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
-4. 🎉 Merged PR [#33](https://github.com/Dexters-Hub/kalkandam/pull/33) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
+1. 💪 Opened PR [#37](https://github.com/Dexters-Hub/kalkandam/pull/37) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
+2. 🔒 Closed issue [#38](https://github.com/Dexters-Hub/kalkandam/issues/38) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
+3. 🎉 Merged PR [#37](https://github.com/Dexters-Hub/kalkandam/pull/37) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
+4. 🎉 Merged PR [#35](https://github.com/Dexters-Hub/kalkandam/pull/35) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
 <!--END_SECTION:activity-->
