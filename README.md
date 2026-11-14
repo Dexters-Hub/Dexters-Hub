@@ -146,8 +146,8 @@
 <br/>
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#13](https://github.com/TH-Activities/saturday-hack-night-dialogflow/pull/13) in [TH-Activities/saturday-hack-night-dialogflow](https://github.com/TH-Activities/saturday-hack-night-dialogflow)
-2. 🎉 Merged PR [#45](https://github.com/Dexters-Hub/kalkandam/pull/45) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
-3. 💪 Opened PR [#45](https://github.com/Dexters-Hub/kalkandam/pull/45) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
-4. 🎉 Merged PR [#44](https://github.com/Dexters-Hub/kalkandam/pull/44) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
+1. ℹ️ Labeled issue [#47](https://github.com/Dexters-Hub/kalkandam/issues/47) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
+2. ❗ Opened issue [#47](https://github.com/Dexters-Hub/kalkandam/issues/47) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
+3. ❌ Closed PR [#13](https://github.com/TH-Activities/saturday-hack-night-dialogflow/pull/13) in [TH-Activities/saturday-hack-night-dialogflow](https://github.com/TH-Activities/saturday-hack-night-dialogflow)
+4. 🎉 Merged PR [#45](https://github.com/Dexters-Hub/kalkandam/pull/45) in [Dexters-Hub/kalkandam](https://github.com/Dexters-Hub/kalkandam)
 <!--END_SECTION:activity-->
